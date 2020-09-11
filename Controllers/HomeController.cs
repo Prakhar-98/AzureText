@@ -15,7 +15,7 @@ namespace TestWebApplicationP8.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Prakhar's Page";
+            ViewBag.Message = "One Piece";
 
             return View();
         }
